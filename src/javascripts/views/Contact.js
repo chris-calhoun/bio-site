@@ -1,6 +1,6 @@
 const showContactPage = () => {
   $('#contact').html(`
-    <h2>Get in touch Me</h2>
+    <h2>Get in touch</h2>
   `);
 };
 
